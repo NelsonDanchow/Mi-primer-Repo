@@ -1,7 +1,7 @@
-# Mi-primer-Repo
+ Mi-primer-Repo
 Mi primer repositorio para las clases de Git
 Esto es un cambio que quiero realizar para ver si sale todo en la terminal.
-Este cambio lo estoy realizando desde la terminal el objetivo es que se vea reflejado en git hub de mi maquina real
+Este cambio lo estoy realizando desde la terminal en mi maquina real
 
 Agrego otro cambio mas para verlo en Git hub de DESKTOP
 
@@ -12,4 +12,11 @@ Este cambio es para la ramita nueva
 
 ejercicio para resolver un merge conflict
  ramanueva
+HEAD
 Cambio hecho en main mientras yo trabajaba
+
+
+Agrego esto para ejercicio REBASE
+
+sigo con el ejercicio REBASE
+599cc1d (Cambio 2 - feature rebase)
