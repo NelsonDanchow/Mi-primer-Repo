@@ -12,3 +12,5 @@ Este cambio es para la ramita nueva
 
 ejercicio para resolver un merge conflict
  ramanueva
+
+vamos a realizar una mejora para un ejercicio pull request
