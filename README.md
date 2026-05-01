@@ -6,3 +6,5 @@ Este cambio lo estoy realizando desde la terminal el objetivo es que se vea refl
 Agrego otro cambio mas para verlo en Git hub de DESKTOP
 
 Este cambio es para la ramita nueva
+
+ejercicio para resolver un merge conflict
