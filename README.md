@@ -12,3 +12,4 @@ Este cambio es para la ramita nueva
 
 ejercicio para resolver un merge conflict
  ramanueva
+Cambio hecho en main mientras yo trabajaba
