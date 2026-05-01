@@ -1,0 +1,20 @@
+Esto es una prueba para ejercicios de git ignore
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+
+# Carpetas que no queremos subir
+node_modules/
+__pycache__/
+venv/
+.env
+
+# Archivos con datos sensibles
+*.env
+secrets.txt
+config.local.json
+
+# Si usás Python
+*.pyc
